@@ -12,7 +12,7 @@ const config = {
 
 // TODO: I have to find out how to the the displayName for the sensor
 const sensorMapping = {
-  '00:17:88:01:02:02:0c:25-02-0402': 'bathroom',
+  '00:17:88:01:02:02:0cGS:25-02-0402': 'bathroom',
   '00:17:88:01:03:28:a1:dd-02-0402': 'bedroom'
 }
 
