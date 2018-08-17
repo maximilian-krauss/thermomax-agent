@@ -1,0 +1,18 @@
+{
+  "name": "thermomax-agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maximilian Krauss <max@krauss.io>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "huejay": "^1.8.4",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5",
+    "urljoin": "^0.1.5"
+  }
+}
